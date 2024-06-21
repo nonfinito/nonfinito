@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Robin</h1>
 <h3 align="center">A passionate web dev & data scientist from Paris</h3>
 
+- 👨‍💻 All of my projects are available at [https://robinlefloch.com/](https://robinlefloch.com/)
+
 - 📫 How to reach me **contact@robinlefloch.com**
 
 <h3 align="left">Connect with me:</h3>
